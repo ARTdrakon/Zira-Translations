@@ -1,17 +1,17 @@
 'use strict';
 
 module.exports = {
-  title: 'Command Usage',
-  titleError: 'Error :warning:',
-  titleComp: 'Complete :white_check_mark:',
-  unknownChannel: 'Unknown channel.',
-  unknownRole: 'Unknown role.',
-  unknownMessage: 'Unknown message.',
-  unknownEmoji: 'Unknown emoji.',
+  title: 'Использование команд',
+  titleError: 'Ошибка :warning:',
+  titleComp: 'Завершено :white_check_mark:',
+  unknownChannel: 'Неизвестный канал.',
+  unknownRole: 'Неизвестная роль.',
+  unknownMessage: 'Неизвестное сообщение.',
+  unknownEmoji: 'Неизвестный смайл.',
   noChannel: ['Please set a channel first with **', 'channel**.'],
   noMessage: ['Please set a message to use with **', 'message**.'],
   help: {
-    commandsTitle: 'Commands',
+    commandsTitle: 'Команды',
     commands: {
       channel: 'set channel you want to use\n',
       message: 'set the message you want to use\n',
